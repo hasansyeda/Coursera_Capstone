@@ -2,27 +2,42 @@
  
  
 An analysis of various neighborhoods in city for best place to open Hibachi place
-This Notebook consists of two parts. The first part defines the problem statement, and the potential solution for that problem statement. The second part of the notebook describes the actual solution for the problem statement.
-There will be two submissions. First as part of the assigment of week 4, the second time as the final result for week 5's assignment.
+This Notebook consists of two parts. The first part defines the problem statement, and the potential 
+solution for that problem statement. The second part of the notebook describes the actual solution for the problem statement.
+There will be two submissions. First as part of the assigment of week 4, the second one will be 
+ as the final result for week 5's assignment.
 
 Introduction:
 
-For an entrepreneur I am creating a concept to find a best neighborhood
-in Chicago metro Area to open a Hibachi place. The entrepreneur likes to have Hibachi and grill place.  Hibachi food is popular among every community, so this
-entrepreneur might think of opening its business in areas where diversified
-community resides. With the purpose in mind, finding the location to open
+For an entrepreneur I am creating a analytical proposal to find a best neighborhood
+in Chicago metro Area to open a Hibachi place. The entrepreneur likes to have Hibachi sit-in as
+well an express service like drive-up and pick-up.   Hibachi food is popular among every community and race,
+so this entrepreneur might think of opening its business in areas where diversified
+community resides. With this purpose in mind, finding the location to open
 such a restaurant is one of the most important decisions for this
-entrepreneur and I am designing this project to help him find the most
-suitable location.
+entrepreneur and I am designing this project to help him find the most suitable location.
 
 Business Reason : 
 
 The objective of this capstone project is to find the most suitable
 location for the entrepreneur to open a new Hibachi & Grill Restaurant in
-Metro Chicago Area. By using data science methods and tools along with clustering, this project aims to provide best solution to provide, In Metro Chicago   where this entrepreneur can open an Hibachi & Grill Restaurant . The best location in this case is related to other venues in the vincinity that attract customers. This could be restaurants, parks, university faculties, companies. But also the lack of other coffee-venues in the area.
+Metro Chicago Area. By using data science methods and tools along with clustering, this project aims 
+to provide best solution to provide this entrepreneur, in Metro Chicago area, where he can 
+open an Hibachi & Grill Restaurant . The best location in this case is related to 
+other venues in the vincinity that attract customers. This could be restaurants, parks, 
+university faculties, companies. But also the lack of other Hibachi restaurants in the area.
 
 
 TARGET AUDIENCE:
           The entrepreneur who wants to find the location to open authentic Hibachi & Grill restaurant.  
 
+
+Data Section: 
+ I will be using the source data from Foursquare. To do the analysis, I will use Jupyter notebooks and python
+ Libraries.  I'm alao going to use map-visualization, analytical libraries and libraries that make it convenient to
+ work with datasets.
+ 
+ As a proposal, to the client, I want to create lists of different types of venues. Once I have categorized 
+ and clustered them, I want to plot them on a map. Based on this, I want to be able to show the best area for the 
+ Hibachi & grill place to be opened.
 
